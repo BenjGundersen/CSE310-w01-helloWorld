@@ -1,0 +1,14 @@
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.exe
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.deps.json
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.runtimeconfig.json
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.dll
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\bin\Debug\net7.0\helloWorld.pdb
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.AssemblyInfo.cs
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.dll
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\refint\helloWorld.dll
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.pdb
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\helloWorld.genruntimeconfig.cache
+C:\Users\baker\OneDrive\Documents\BYUi\Winter 2024\CSE 310\w01\helloWorld\helloWorld\helloWorld\obj\Debug\net7.0\ref\helloWorld.dll
