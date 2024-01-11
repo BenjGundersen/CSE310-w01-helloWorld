@@ -13,3 +13,10 @@ Below is a link to a YouTube video that goes over the program and how it works.
 I used the JetBrains Rider software to program this.
 
 I used the C# programming language.
+
+# Useful Websites
+
+Below are a couple of websites that might be helpful when trying to learn about writing to the console.
+The Microsoft one goes really in-depth, whereas the devmio one is a bit more basic and beginner friendly.
+* [Microsoft](https://learn.microsoft.com/en-us/dotnet/api/system.console.write?view=net-8.0)
+* [devmio](https://devm.io/csharp/c-sharp-console-app-167696)
